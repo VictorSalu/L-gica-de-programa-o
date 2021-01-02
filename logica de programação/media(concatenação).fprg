@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="victo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-15 03:27:46 "/>
+        <attribute name="created" value="dmljdG87REVTS1RPUC02NlJPTUREOzIwMjAtMTItMTU7IjAzOjE5OjU1ICI7MjgwNQ=="/>
+        <attribute name="edited" value="dmljdG87REVTS1RPUC02NlJPTUREOzIwMjAtMTItMTU7IjAzOjI3OjQ2ICI7MTsyOTEy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot; Digite sue nome &quot;" newline="True"/>
+            <input variable="nome"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot; Boa tarde &quot; &amp;nome&amp; &quot; sua m&#233;dia &#233; de :&quot; &amp;media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

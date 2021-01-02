@@ -1,0 +1,16 @@
+inicio_algoritmo
+   Acordar
+   escovar os dentes
+   ir a padaria
+   comprar pães
+   voltar para casa
+   tomar o café da manhã
+   escovar os dentes
+   ajudar o pai na obra de casa
+      se horario for = 15:00 estude
+      senão continue ajudando o pai
+   tomar banho
+   jantar
+   orar e agradecer
+   dormir
+final _algoritmo

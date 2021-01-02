@@ -1,0 +1,13 @@
+inicio_algoritmo
+  ovelha entra no barco
+  atravessa 
+  lobo entra no barco
+  atravessa
+  ovelha entra no barco
+  atravessa
+  repolho entra no barco
+  atravessa
+  ovelha entra no barco
+  atravessa
+Final_algoritmo
+  
